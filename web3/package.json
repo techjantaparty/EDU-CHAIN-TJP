@@ -1,0 +1,26 @@
+{
+  "name": "educhain-tjp",
+  "version": "1.0.0",
+  "description": "submission for edu chain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Megh2005"
+  },
+  "keywords": [
+    "nft"
+  ],
+  "author": "Megh Deb",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.16"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0",
+    "dotenv": "^16.4.5"
+  }
+}
