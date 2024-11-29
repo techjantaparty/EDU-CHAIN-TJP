@@ -21,18 +21,7 @@
 
 ## 🧐 Problem Statement
 
-It is useful to design and follow a specific format when writing a problem statement. While there are several options
-for doing this, the following is a simple and straightforward template often used in Business Analysis to maintain
-focus on defining the problem.
-
-- IDEAL: This section is used to describe the desired or “to be” state of the process or product. At large, this section
-  should illustrate what the expected environment would look like once the solution is implemented.
-- REALITY: This section is used to describe the current or “as is” state of the process or product.
-- CONSEQUENCES: This section is used to describe the impacts on the business if the problem is not fixed or improved upon.
-  This includes costs associated with loss of money, time, productivity, competitive advantage, and so forth.
-
-Following this format will result in a workable document that can be used to understand the problem and elicit
-requirements that will lead to a winning solution.
+***The current education and employment sectors face numerous challenges, including the lack of secure and verifiable educational credentials, inefficiencies in the job-seeking process, and the inability to provide personalized learning experiences. Traditional systems are often plagued by fraud, data tampering, and a lack of transparency, which undermines trust among users. Additionally, the centralized nature of these systems limits their ability to adapt to the unique needs of individual learners and job seekers, resulting in a one-size-fits-all approach that fails to address the diverse requirements of the modern workforce. The education sector struggles with outdated curricula, limited access to quality resources, and a lack of engagement, which hampers the learning experience and outcomes. On the employment front, job seekers face challenges such as biased hiring practices, lack of access to job opportunities, and inefficient recruitment processes. Employers, on the other hand, find it difficult to verify the authenticity of candidates' credentials and skills, leading to potential mismatches and reduced productivity. These issues highlight the need for a more secure, transparent, and efficient system that can cater to the evolving demands of education and employment. By leveraging blockchain technology and decentralized learning management systems (LLMs), Gurudev aims to address these challenges and create a more inclusive, accessible, and effective ecosystem for learners and job seekers.***
 
 ## 💡Solution
 
