@@ -29,17 +29,41 @@
 
 ## ⛓️Dependencies
 
-- What are the dependencies of your project?
-- Describe each limitation in detailed but concise terms
-- Explain why each limitation exists
-- Provide the reasons why each limitation could not be overcome using the method(s) chosen to acquire.
-- Assess the impact of each limitation in relation to the overall findings and conclusions of your project, and if
-  appropriate, describe how these limitations could point to the need for further research.
+## ⛓️Dependencies
 
-## 🚀Future Scope
+## 🚧Limitations
 
-Write about what you could not develop during the course of the Hackathon; and about what your project can achieve
-in the future.
+***- Scalability: The current implementation may face challenges in handling a large number of users simultaneously.***
+***- Security: While blockchain provides a high level of security, there are still potential vulnerabilities in the system that need to be addressed.***
+***- Integration: Integrating with existing educational and employment systems can be complex and time-consuming.***
+***- User Adoption: Convincing users to switch from traditional systems to a decentralized platform may be difficult.***
+
+## 🔍Explanation of Limitations
+
+- ***Scalability: The system's architecture may not be optimized for handling a high volume of concurrent users, which could lead to performance issues.***
+- ***Security: Despite the inherent security of blockchain, there are other aspects of the system that could be vulnerable to attacks, such as the user interface and API endpoints.***
+- ***Integration: Existing systems may have different data formats and protocols, making it challenging to integrate seamlessly with the Gurudev platform.***
+- ***User Adoption: Users may be resistant to change due to familiarity with traditional systems and skepticism towards new technologies.***
+
+## 🛠️Reasons for Limitations
+***Scalability was a significant consideration during the development phase. The chosen technologies and architecture were selected to facilitate rapid development, which means they may not be fully optimized for large-scale deployment. This could lead to performance issues as the number of users grows, necessitating further optimization and scaling efforts.***
+
+***Security measures were another area where the focus was primarily on developing core functionalities. As a result, some security protocols may not have been fully implemented or rigorously tested. This leaves potential vulnerabilities that need to be addressed to ensure the platform's robustness and user trust.***
+
+***Integration with external systems was limited due to time and resource constraints during the hackathon. This means that thorough integration with existing educational and employment systems was not achieved, which could pose challenges in the future when attempting to create a seamless user experience.***
+
+***User adoption is another critical factor. The project is still in its early stages, and extensive user education and outreach efforts have not yet been conducted. This could impact the rate at which users transition from traditional systems to the new decentralized platform, affecting the overall success and impact of the project.***
+
+## 📈Impact of Limitations
+
+***- Scalability: Performance issues could affect user experience and limit the platform's ability to grow.***
+***- Security: Potential vulnerabilities could undermine user trust and compromise sensitive data.***
+***- Integration: Difficulty in integrating with existing systems could hinder widespread adoption and limit the platform's effectiveness.***
+***- User Adoption: Resistance to change could slow down the adoption rate and reduce the overall impact of the platform.***
+
+## 🔬Need for Further Research
+
+***Research into more scalable architectures and technologies is needed to support a larger user base, further security audits and testing are required to identify and mitigate potential vulnerabilities, developing standardized protocols and tools for easier integration with external systems is necessary, and conducting user studies and developing strategies to educate and incentivize users to adopt the platform will be crucial for its success.***
 
 ## 🏁Getting Started
 
@@ -66,7 +90,7 @@ Give the example
 
 ## 🎈Usage
 
-Add notes about how to use the system.
+***Gurudev is a comprehensive platform designed to revolutionize the education and employment sectors by leveraging blockchain technology and decentralized learning management systems (LLMs). The platform ensures that all educational credentials and job-related data are immutable and verifiable, significantly reducing fraud and increasing trust among users. By offering personalized and adaptive learning experiences, Gurudev caters to the unique needs of each learner, enhancing engagement and outcomes. Additionally, the decentralized job marketplace connects job seekers with potential employers, ensuring that all transactions are transparent and tamper-proof. The business model is based on a subscription fee for premium features and services, as well as transaction fees for job postings and applications. The target audience includes learners seeking personalized education, job seekers looking for secure and efficient job opportunities, and employers aiming to verify candidates' credentials and skills. By addressing the challenges in the current education and employment systems, Gurudev aims to create a more inclusive, accessible, and effective ecosystem for all stakeholders involved.***
 
 ## ⛏️Built
 
@@ -77,11 +101,9 @@ Add notes about how to use the system.
 
 ## ✍️Authors
 
-- [Megh Deb](https://github.com/Megh2005)
-- [Ronit Bose](https://github.com/rbose3)
+- ***[Megh Deb](https://github.com/Megh2005)***
+- ***[Ronit Bose](https://github.com/rbose3)***
 
 ## 🎉Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+***We would like to extend our heartfelt gratitude to everyone who contributed to this project. A special thanks to all the developers and open-source contributors whose code and libraries were instrumental in building this platform. We also draw inspiration from the innovative ideas and solutions within the blockchain and ed-tech communities, which have significantly influenced our approach. Additionally, we acknowledge the valuable references and resources that provided us with the necessary knowledge and guidance throughout the development process. Your support and contributions have been invaluable in making this project a reality.***
