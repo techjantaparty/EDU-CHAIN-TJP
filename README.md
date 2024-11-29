@@ -31,10 +31,10 @@
 
 ## 🚧Limitations
 
-***- Scalability: The current implementation may face challenges in handling a large number of users simultaneously.***
-***- Security: While blockchain provides a high level of security, there are still potential vulnerabilities in the system that need to be addressed.***
-***- Integration: Integrating with existing educational and employment systems can be complex and time-consuming.***
-***- User Adoption: Convincing users to switch from traditional systems to a decentralized platform may be difficult.***
+- ***Scalability: The current implementation may face challenges in handling a large number of users simultaneously.***
+- ***Security: While blockchain provides a high level of security, there are still potential vulnerabilities in the system that need to be addressed.***
+- ***Integration: Integrating with existing educational and employment systems can be complex and time-consuming.***
+- ***User Adoption: Convincing users to switch from traditional systems to a decentralized platform may be difficult.***
 
 ## 🔍Explanation of Limitations
 
@@ -54,10 +54,10 @@
 
 ## 📈Impact of Limitations
 
-***- Scalability: Performance issues could affect user experience and limit the platform's ability to grow.***
-***- Security: Potential vulnerabilities could undermine user trust and compromise sensitive data.***
-***- Integration: Difficulty in integrating with existing systems could hinder widespread adoption and limit the platform's effectiveness.***
-***- User Adoption: Resistance to change could slow down the adoption rate and reduce the overall impact of the platform.***
+- ***Scalability: Performance issues could affect user experience and limit the platform's ability to grow.***
+- ***Security: Potential vulnerabilities could undermine user trust and compromise sensitive data.***
+- ***Integration: Difficulty in integrating with existing systems could hinder widespread adoption and limit the platform's effectiveness.***
+- ***User Adoption: Resistance to change could slow down the adoption rate and reduce the overall impact of the platform.***
 
 ## 🔬Need for Further Research
 
