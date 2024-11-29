@@ -8,9 +8,9 @@
 
 <div align="center">
 
-[![Hackathon](https://img.shields.io/badge/hackathon-educhain-orange.svg)](https://lemonade.social/e/2sVguBvU)
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://lemonade.social/e/2sVguBvU)
-[![Team](https://img.shields.io/badge/team-tjp-red.svg)](https://lemonade.social/e/2sVguBvU)
+[![Hackathon](https://img.shields.io/badge/hackathon-Educhain-orange.svg)](https://lemonade.social/e/2sVguBvU)
+[![Status](https://img.shields.io/badge/status-Active-success.svg)](https://lemonade.social/e/2sVguBvU)
+[![Team](https://img.shields.io/badge/team-TJP-red.svg)](https://lemonade.social/e/2sVguBvU)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
 </div>
