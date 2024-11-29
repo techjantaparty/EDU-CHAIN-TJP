@@ -29,8 +29,6 @@
 
 ## ⛓️Dependencies
 
-## ⛓️Dependencies
-
 ## 🚧Limitations
 
 ***- Scalability: The current implementation may face challenges in handling a large number of users simultaneously.***
