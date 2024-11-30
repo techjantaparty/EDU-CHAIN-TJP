@@ -5,6 +5,7 @@ import { uploadFileToIPFS, uploadJSONToIPFS } from "../pinata";
 import marketplace from "./../marketplace.json";
 import { ethers } from "ethers";
 import { WalletContext } from "@/context/wallet";
+import toast from "react-hot-toast";
 
 export default function SellNFT() {
     const [formParams, updateFormParams] = useState({
@@ -25,7 +26,7 @@ export default function SellNFT() {
             const data = new FormData();
             data.set("file", file);
             setBtn(false);
-            updateMessage("Uploading image... Please don't click anything!");
+            updateMessage("Uploading Image...");
             const response = await uploadFileToIPFS(data);
             if (response.success === true) {
                 setBtn(true);
@@ -67,7 +68,7 @@ export default function SellNFT() {
             const metadataURL = await uploadMetadataToIPFS();
             if (metadataURL === -1) return;
 
-            updateMessage("Uploading NFT...Please dont click anything!");
+            updateMessage("Uploading NFT...");
 
             let contract = new ethers.Contract(
                 marketplace.address,
@@ -83,10 +84,11 @@ export default function SellNFT() {
             setBtn(false);
             updateMessage("");
             updateFormParams({ name: "", description: "", price: "" });
-            alert("Successfully listed your NFT!");
-            router.push("/");
+            toast.success("NFT Listed Successfully!");
+            router.push("/mint");
         } catch (e) {
-            alert("Upload error", e);
+            toast.error("Failed to list NFT");
+            console.log("Error listing NFT: ", e);
         }
     }
 
